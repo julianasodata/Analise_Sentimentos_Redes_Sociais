@@ -1,5 +1,13 @@
 # Analise de sentimentos
 
+Imagine se as empresas soubessem o que seus clientes pensam e sentem sobre elas. 
+As empresas podem chegar a insights valiosos com informações como essas.
+
+- Melhorar pordutos e serviços
+- Melhorar entregas
+- Melhorar faturamento
+- Melhorar satisfação
+
 ![imagem dos_sentimentos](sentimentos.gif)
 
-O que os usários pensam ou sentem. As empresas podem chegam a insights valiosos por saberem o que seu clientes pensam.
+
