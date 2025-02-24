@@ -1,7 +1,5 @@
-echo "# portfolio" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/julianasodata/portfolio.git
-git push -u origin main
+# Analise de sentimentos
+
+![imagem de equalizador](equalizador.gif)
+
+O que os usários pensam ou sentem. As empresas podem chegam a insights valiosos por saberem o que seu clientes pensam.
