@@ -9,5 +9,7 @@ As empresas podem chegar a insights valiosos com informações como essas.
 - Melhorar satisfação
 
 ![imagem dos_sentimentos](sentimentos.gif)
+![imagem dos_sentimentos1](sentimentos_1.gif)
+![imagem dos_sentimentos2](sentimentos_2.gif)
 
 
